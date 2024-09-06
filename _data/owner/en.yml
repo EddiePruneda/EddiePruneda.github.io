@@ -5,7 +5,7 @@
 brand: "MacroView"
 
 # text below the brand name
-brand_sub_text: "$MacroView"
+brand_sub_text: "Eddie Pruneda"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Eddie Pruneda"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "Macroview was created to provide employers with a glimpse into my market analysis skills and insights. This platform reflects my self-motivated and independent thinking, showcasing my ability to identify trends and opportunities in the market."
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
