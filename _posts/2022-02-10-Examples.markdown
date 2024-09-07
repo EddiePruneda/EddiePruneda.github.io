@@ -1,11 +1,11 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: Examples
+title: Yeild curve uninversion
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: eddie pruneda
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
@@ -110,7 +110,7 @@ kbd text <kbd>Hello world</kbd>
 
 ### Link
 
-This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+#This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
 
 \* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
 
