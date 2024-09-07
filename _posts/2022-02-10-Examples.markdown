@@ -41,7 +41,7 @@ date: 2024-09-10 08:11:06 +0900
 
 <!-- outline-start -->
 
-img: ":Yeild.png"
+
 
 <!-- outline-end -->
 
