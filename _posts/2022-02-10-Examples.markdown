@@ -41,7 +41,7 @@ date: 2024-09-10 08:11:06 +0900
 
 <!-- outline-start -->
 
-
+It is not the inversion of the yield curve that causes recessions, but rather its uninversion.
 
 <!-- outline-end -->
 
