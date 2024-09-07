@@ -116,7 +116,7 @@ kbd text <kbd>Hello world</kbd>
 
 ### Picture
 
-![such a lovely place](:post_Yeild.png)
+![such a lovely place](:Yeild.png)
 
 ### Picture (centered)
 
