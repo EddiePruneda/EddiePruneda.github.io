@@ -16,7 +16,7 @@ img: ":Yeild.png"
 comments_disable: true
 
 # publish date
-date: 2024-09-10 11:32:53 +0900
+date: 2024-05-10 11:32:53 +0900
 
 # seo
 # if not specified, date will be used.
