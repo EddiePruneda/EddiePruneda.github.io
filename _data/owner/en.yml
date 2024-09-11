@@ -10,7 +10,7 @@ brand_sub_text: "Eddie Pruneda"
 # used for seo meta post author (if it's not defined in post)
 name: "Eddie Pruneda"
 
- home page top header texts
+# home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
   top_header_line1: "Charts and Thoughts"
