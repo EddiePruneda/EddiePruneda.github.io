@@ -11,7 +11,7 @@ brand_sub_text: "Eddie Pruneda"
 name: "Eddie Pruneda"
 
 # home page top header texts
-#home:
+home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
   #top_header_line1: "Macroview was created to provide employers with a glimpse into my market analysis skills and insights. This platform reflects my self-motivated and independent thinking, showcasing my ability to identify trends and opportunities in the market."
   # if commented, top header will be a single line
