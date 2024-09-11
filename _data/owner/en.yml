@@ -18,8 +18,8 @@ home:
   top_header_line2: "MacroView"
 
 # about page sub title
-about: swim
-  sub_title: "Macroview was created to provide employers with a glimpse into my market analysis skills and insights. This platform reflects my self-motivated and independent thinking, showcasing my ability to identify trends and opportunities in the market."
+about:
+  sub_title: ""
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
