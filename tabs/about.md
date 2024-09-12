@@ -37,7 +37,7 @@ img: ":about.jpg"
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-As an eager learner in the world of investing, I recognize that humility and diligence are key to growth. My approach centers on focusing on what I can control daily: dedicating time to continuous learning and disciplined research. I strive to understand the critical roles of risk management and emotional control in navigating market complexities. While I'm still developing my skills, I aim to approach investment decisions with careful consideration and a balanced perspective.
+i want to be the man that looks to the person to the left of me and comes in a hour before them, look to the person right of me and leave a hour after them.
 
 {{ website_info_text_first }}
 
