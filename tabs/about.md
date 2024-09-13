@@ -37,7 +37,7 @@ img: ":about.jpg"
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-i want to be the man that looks to the person to the left of me and comes in a hour before them, look to the person right of me and leave a hour after them.
+I want to be the man who arrives an hour before the person to my left and leaves an hour after the person to my right. It's not about competing; it's about pushing myself to be better and doing whatever I can to succeed. I believe that staying humble and working hard is essential, as it helps grow and make a positive impact, no matter where I am.
 
 {{ website_info_text_first }}
 
