@@ -41,7 +41,7 @@ img: ":home-heading.jpg"
 
 **As an aspiring investor, I value humility and diligence as keys to growth. My approach focuses on what I can control daily, discipline in research and continuous education. Emphasizing risk management and emotional control in complex markets.**
 
-**Technical analysis forms the core of my strategy, complemented by macroeconomic insights. I closely monitor monetary policy, interest rates, and money supply metrics, believing we're in the late stages of the current business cycle. Key indicators I track include CPI, labor market data, the U.S. Dollar Index, and FOMC statements.**
+**Technical analysis forms the core of my strategy, complemented by macroeconomic insights. Key indicators I track include, interest rates, and money supply metrics. Believing we're in the late stages of the current business cycle, I closely monitor  CPI, labor market data, the U.S. Dollar Index, and FOMC statements.**
 
 **I'm fascinated by market psychology and recurring patterns driven by investor behavior. This repetition isn't coincidence; it's a reflection of human nature playing out in markets. By studying these patterns and understanding cognitive biases, I aim to gain deeper insights into market movements and maintain emotional discipline.**
 
