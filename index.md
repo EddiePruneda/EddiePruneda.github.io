@@ -39,7 +39,7 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-**As an eager learner in the world of investing, I recognize that humility and diligence are key to growth. My approach centers on focusing on what I can control daily: dedicating time to continuous learning and disciplined research. I strive to understand the critical roles of risk management and emotional control in navigating market complexities.
+**As an eager learner in the world of investing, I recognize that humility and diligence are key to growth. My approach centers on focusing on what I can control daily: dedicating time to continuous learning and disciplined research. I strive to understand the critical roles of risk management and emotional control in navigating market complexities.**
 
 Technical analysis forms a fundamental part of my investment approach, complemented by a keen focus on macroeconomic factors. I closely monitor monetary policy, interest rates, and money supply metrics like M2, recognizing their significant impact on market trends. Believing we're in the late stages of the current business cycle, I pay particular attention to key economic indicators. These include the Consumer Price Index (CPI), labor market data, the U.S. Dollar Index (DXY), and Federal Open Market Committee (FOMC) statements. This comprehensive approach helps me navigate potential market volatility. By integrating technical analysis with a broad macroeconomic perspective, I strive to make well-informed investment decisions. This strategy allows me to consider both market sentiment and underlying economic conditions, which is crucial for navigating the complexities of today's financial landscape
 
