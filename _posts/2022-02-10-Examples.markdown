@@ -41,26 +41,14 @@ date: 2024-09-09 08:11:06 +0900
 
 <!-- outline-start -->
 
-The decline in china.
+The slowdown in china.
 
 <!-- outline-end -->
 
-### Headings (centered)
+### The slow down in China
 {:data-align="center"}
 
-# Heading 1
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-***
 
 ### Paragraphs
 
