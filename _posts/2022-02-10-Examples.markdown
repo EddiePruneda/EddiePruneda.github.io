@@ -69,7 +69,7 @@ Alibaba Group Holding Limited is a leading Chinese multinational technology comp
 Li Auto Inc. is a leading Chinese EV manufacturer known for its premium smart electric SUVs, specializing in extended-range electric vehicles that combine electric motors with gasoline engines. With a market capitalization of approximately $19.12 billion as of September 14, 2024 (down from 45 billion aug 2023), Li Auto is a major player in China's booming EV market. For U.S. consumers, Li Auto can be thought of as China's answer to Tesla, focusing on high-end electric SUVs with innovative technology. While not yet available in the U.S., Li Auto's rapid growth and technological advancements make it a company to watch in the global electric vehicle industry.
 
 
-(:LI.png)
+(:LI.png){:data-align="center"}
 
 #### Wide Table (centered)
 
