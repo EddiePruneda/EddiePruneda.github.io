@@ -1,11 +1,11 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: Examples
+title: CHINA
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: Eddie Pruneda
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
@@ -41,7 +41,7 @@ date: 2024-09-09 08:11:06 +0900
 
 <!-- outline-start -->
 
-This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+The decline in china.
 
 <!-- outline-end -->
 
