@@ -1,26 +1,26 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: Yeild curve uninversion
+title: Examples
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: eddie pruneda
+author: Mr. Green's Workshop
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
 tags: [jekyll, sample, example post]
 # thumbnail image for post
-img: ":Yeild.png"
+img: ":post_pic1.jpg"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2021-09-10 08:11:06 +0900
+date: 2022-02-10 08:11:06 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2021-09-10 08:11:06 +0900
+#meta_modify_date: 2022-02-10 08:11:06 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -41,7 +41,7 @@ date: 2021-09-10 08:11:06 +0900
 
 <!-- outline-start -->
 
-It is not the inversion of the yield curve that causes recessions, but rather its uninversion.
+This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
 
 <!-- outline-end -->
 
@@ -110,13 +110,13 @@ kbd text <kbd>Hello world</kbd>
 
 ### Link
 
-#This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
 
 \* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
 
 ### Picture
 
-![such a lovely place](:Yeild.png)
+![such a lovely place](:post_pic1.jpg)
 
 ### Picture (centered)
 
