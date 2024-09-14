@@ -60,7 +60,7 @@ The slowdown in china.
 
 ### Picture
 
-![such a lovely place](:post_BABA 1.png)
+![such a lovely place](:BABA 1.png)
 
 ### Picture (centered)
 
