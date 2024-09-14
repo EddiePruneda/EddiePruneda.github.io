@@ -41,7 +41,7 @@ date: 2023-11-16 20:21:03 +0900
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
+TESTING123
 
 <!-- outline-start -->
 
