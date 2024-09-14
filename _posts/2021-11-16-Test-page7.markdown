@@ -43,10 +43,4 @@ date: 2023-11-16 20:21:03 +0900
 
 TESTING123
 
-<!-- outline-start -->
 
-{{ website_info_text_first }}
-
-<!-- outline-end -->
-
-{{ website_info_text_second }}
