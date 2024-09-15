@@ -109,5 +109,5 @@ date: 2024-09-09 08:11:06 +0900
 ***
 
 {% highlight python %}
-I have no exposure to any of these companies, nor am I soliciting or advising anyone to invest in them. I personally feel China is too risky for my risk-reward profile. This information is merely presented to explore the current state of the Chinese economy and provide insight into ongoing developments.
+I have no exposure to any of these companies, nor am I soliciting or advising anyone  to invest in them. I personally feel China is too risky for my risk-reward profile.    This information is merely presented to explore the current state of the Chinese economy and provide insight into ongoing developments.
 {% endhighlight %}
