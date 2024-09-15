@@ -72,13 +72,19 @@ date: 2024-09-09 08:11:06 +0900
 ***
 
 ### Ping An Insurance Group (PNGAY)
->Ping An Insurance Group, also known as Ping An of China, is one of the largest financial services companies in China. With over 232 million retail customers, it plays a significant role in the Chinese financial market. For Americans unfamiliar with Chinese companies, you can think of Ping An as a combination of a major U.S. insurance company like Prudential, a large bank like JPMorgan Chase, and a healthcare services provider, all rolled into one massive conglomerate. With a market cap of 442 billion (down from 916 billion Feb. 2021) Currently down 66% with that downtrend starting 1336 days ago from peak.
+>Ping An Insurance Group, is one of the largest financial services companies in China. With over 232 million retail customers, it plays a significant role in the Chinese financial market. For Americans unfamiliar with Chinese companies, you can think of Ping An as a combination of a major U.S. insurance company like Prudential, a large bank like JPMorgan Chase, and a healthcare services provider, all rolled into one massive conglomerate. With a market cap of 99 billion (down from 258 billion july. 2020) Currently down 66% with that downtrend starting 1336 days ago from peak.
 >
 ![down](:PNGAY 1.png)
 ***
 ***
 ### Tencent Holdings Ltd. (TCEHY)
->Tencent is often called "the Facebook of China," but it's much more than that. As one of the world's largest technology companies, Tencent offers a wide range of services, including social media and messaging through WeChat—similar to a combination of WhatsApp, Facebook, and PayPal. It is also the largest gaming company globally, provides music streaming, cloud computing, digital payments, and online advertising. In the U.S., you could think of Tencent as a massive conglomerate that combines the functions of Facebook, Electronic Arts, Spotify, Amazon Web Services, PayPal, and Google's advertising business all in one.
+>Tencent is often called "the Facebook of China," but it's much more than that. As one of the world's largest technology companies, Tencent offers a wide range of services, including social media and messaging through WeChat—similar to a combination of WhatsApp, Facebook, and PayPal. It is also the largest gaming company globally, provides music streaming, cloud computing, digital payments, and online advertising. In the U.S., you could think of Tencent as a massive conglomerate that combines the functions of Facebook, Electronic Arts, Spotify, Amazon Web Services, PayPal, and Google's advertising business all in one. Down 51% from its lows of down 75%. With a market cap of 442 billion (down from 916 billion Feb. 2021)
 >
-![such a lovely place](:TCE 1.png)
-![such a lovely place](:TCE 2.png)
+![DOWN](:TCE 1.png)
+![DOWN](:TCE 2.png)
+***
+***
+### Baidu, Inc. (BIDU)
+>Baidu, Inc. is a leading Chinese technology company often referred to as the "Google of China." It operates the largest search engine in China and offers various internet services, including Baidu Maps and Baidu Baike (similar to Wikipedia). Baidu is heavily invested in artificial intelligence and autonomous driving technologies. While primarily focused on the Chinese market, Baidu is expanding its international presence. For U.S. audiences, think of Baidu as a blend of Google for search, Waymo for autonomous driving, and IBM for AI solutions, all within China's digital landscape. Down 75% hitting lows from 2010, with a 1309 day downtrend. Market cap of 29 billion down from 106 billion feb 2021.
+>
+![DOWN](:BIDU 1.png)
