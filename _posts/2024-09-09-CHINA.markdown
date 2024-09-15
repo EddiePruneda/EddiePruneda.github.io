@@ -95,6 +95,6 @@ date: 2024-09-09 08:11:06 +0900
 ***
 ***
 ### JD.com Inc. (JD)
->JD.com is one of China's largest e-commerce companies, often compared to Amazon. JD.com operates primarily as a direct retailer, selling products directly to consumers VS baba selling B2B. As of September 2024, JD.com has a market capitalization of approximately $39.86 billion (down from 164 billion in feb 2021. The company specializes in a wide range of products, particularly electronics, and is heavily investing in technology, including AI and drone delivery systems, to enhance its services. Down 75% with a 1,315 day downtrend looking like its forming a base.
+>JD.com is one of China's largest e-commerce companies, often compared to Amazon. JD.com operates primarily as a direct retailer, selling products directly to consumers VS baba selling B2B. As of September 2024, JD.com has a market capitalization of approximately $39.86 billion (down from 164 billion in feb 2021. The company specializes in a wide range of products, particularly electronics, and is heavily investing in technology, including AI and drone delivery systems, to enhance its services. <kbd>Down 75% with a 1,315 day downtrend looking like its forming a base.</kbd>
 >
 ![DOWN](:JD 1.png)
