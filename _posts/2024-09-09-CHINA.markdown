@@ -50,7 +50,7 @@ date: 2024-09-09 08:11:06 +0900
 
 
 ***
-
+***
 
 ### Alibaba Group Holding Limited (BABA)
 >Alibaba Group Holding Limited is a leading Chinese multinational technology company that specializes in e-commerce, retail, and cloud computing. It's the largest e-commerce company in China and one of the world's biggest retailers and e-commerce companies. Market Cap: $192.70 billion (down from a 837 billion market cap in october 2020). Alibaba is often referred to as the "Amazon of China".  <kbd>Currently down 75% forming a base from its lows of down 80%. Also shown is a date range of 1,414 days (3.8 years) of current downtrend.</kbd> 
@@ -70,22 +70,27 @@ date: 2024-09-09 08:11:06 +0900
 ![Down 55% in 406 days](:LI.png)
 
 ***
+***
 
 ### Ping An Insurance Group (PNGAY)
 >Ping An Insurance Group, is one of the largest financial services companies in China. With over 232 million retail customers, it plays a significant role in the Chinese financial market. For Americans unfamiliar with Chinese companies, you can think of Ping An as a combination of a major U.S. insurance company like Prudential, a large bank like JPMorgan Chase, and a healthcare services provider, all rolled into one massive conglomerate. With a market cap of 99 billion (down from 258 billion july. 2020)  <kbd>Currently down 66% with that downtrend starting 1336 days ago from peak.</kbd>
 >
 
 ![down](:PNGAY 1.png)
+
 ***
 ***
+
 ### Tencent Holdings Ltd. (TCEHY)
 >Tencent is often called "the Facebook of China," but it's much more than that. As one of the world's largest technology companies, Tencent offers a wide range of services, including social media and messaging through WeChat—similar to a combination of WhatsApp, Facebook, and PayPal. It is also the largest gaming company globally, provides music streaming, cloud computing, digital payments, and online advertising. In the U.S., you could think of Tencent as a massive conglomerate that combines the functions of Facebook, Electronic Arts, Spotify, Amazon Web Services, PayPal, and Google's advertising business all in one.  <kbd>Down 51% from its lows of down 75%. With a market cap of 442 billion (down from 916 billion Feb. 2021)</kbd>
 >
 
 ![DOWN](:TCE 1.png)
 ![DOWN](:TCE 2.png)
+
 ***
 ***
+
 ### Baidu, Inc. (BIDU)
 >Baidu, Inc. is a leading Chinese technology company often referred to as the "Google of China." It operates the largest search engine in China and offers various internet services, including Baidu Maps and Baidu Baike (similar to Wikipedia). Baidu is heavily invested in artificial intelligence and autonomous driving technologies. While primarily focused on the Chinese market, Baidu is expanding its international presence. For U.S. audiences, think of Baidu as a blend of Google for search, Waymo for autonomous driving, and IBM for AI solutions, all within China's digital landscape.  <kbd>Down 75% hitting lows from 2010, with a 1309 day downtrend. Market cap of 29 billion down from 106 billion feb 2021.</kbd>
 >
@@ -94,7 +99,15 @@ date: 2024-09-09 08:11:06 +0900
 
 ***
 ***
+
 ### JD.com Inc. (JD)
 >JD.com is one of China's largest e-commerce companies, often compared to Amazon. JD.com operates primarily as a direct retailer, selling products directly to consumers VS baba selling B2B. As of September 2024, JD.com has a market capitalization of approximately $39.86 billion (down from 164 billion in feb 2021. The company specializes in a wide range of products, particularly electronics, and is heavily investing in technology, including AI and drone delivery systems, to enhance its services. <kbd>Down 75% with a 1,315 day downtrend looking like its forming a base.</kbd>
 >
 ![DOWN](:JD 1.png)
+
+***
+***
+
+{% highlight python %}
+I have no exposure to any of these companies, nor am I soliciting or advising anyone to invest in them. I personally feel China is too risky for my risk-reward profile. This information is merely presented to explore the current state of the Chinese economy and provide insight into ongoing developments.
+{% endhighlight %}
