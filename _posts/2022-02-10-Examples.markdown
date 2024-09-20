@@ -46,10 +46,6 @@ date: 2024-09-10 08:11:06 +0900
 
 ***
 
-### Paragraphs
-
-#### Paragraph
-
 Bitcoin itself is a super complex protocol, and anytime you try to simplify something so intricate, you risk missing the mark. If I were to fully dive into Bitcoin, this whole website would turn into a Bitcoin page!
 I've spent over 4 years learning about Bitcoin and its role in markets. While I can't cover everything here, I'd love to talk to anyone about Bitcoin or answer any questions they might have. As a humble investor, I realize I might not know all the answers, but I'm always eager to learn more.
 Some key things I find interesting and keep a close eye on are:
