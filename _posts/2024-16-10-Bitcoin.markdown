@@ -2,6 +2,7 @@
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
 title: Bitcoin
+{:data-align="center"}
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -39,9 +40,6 @@ date: 2024-09-10 08:11:06 +0900
 #published: false
 ---
 
-
-### Bitcoin
-{:data-align="center"}
 
 
 ***
