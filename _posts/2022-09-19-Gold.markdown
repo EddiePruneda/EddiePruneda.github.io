@@ -79,7 +79,7 @@ I want to show some charts before discussing my gold views at the end. click pic
 #### 2015-2038
 >Of course, the farther ahead in time you try to look, the harder it is and the more speculative it gets. But here are two future possibilities if we had another bull run gold cycle, assuming a longer timeframe (double the last cycle) ending in 2038. Two different charts are shown here:
 >### Scenario 1: 500% Gain
-This chart illustrates where gold prices might reach with a 500% gain from current levels.
+This chart illustrates where gold prices might reach with a 500% gain from 2015 lows.
 
 ![a low end of what could be possible](:500.png)
 
@@ -106,7 +106,6 @@ For those considering short-term positions in gold, I find value in adding to go
 
 ## Long-Term Considerations
 
-[narrowing](https://asia.nikkei.com/cms/Business/Markets/Commodities/Gold-ETF-inflows-reach-2-year-high-driven-by-expected-U.S.-rate-cut)
 
 Looking at the bigger picture, we're witnessing an intriguing phenomenon: gold is breaking new highs despite [record ETF outflows](https://www.gold.org/goldhub/research/etf-flows). This divergence suggests that while some investors are reducing their exposure through traditional financial products, other forces are driving the price upward. Notably, central [banks worldwide continue to accumulate gold](https://www.spglobal.com/marketintelligence/en/mi/research-analysis/despite-gold-hitting-record-highs-etf-flows-remain-muted.html), indicating a shift in global monetary perspectives.
 
@@ -119,7 +118,7 @@ The United States' financial situation further underscores the potential for gol
 
 These factors collectively point towards the likelihood of future monetary expansion. As governments grapple with mounting debts and obligations, the printing of money often becomes an attractive, albeit problematic, solution. This scenario traditionally bodes well for gold, which has historically served as a hedge against currency devaluation and inflationary pressures.
 
-It's worth noting that while ETF outflows have been significant, there are signs of this trend [narrowing](https://asia.nikkei.com/cms/Business/Markets/Commodities/Gold-ETF-inflows-reach-2-year-high-driven-by-expected-U.S.-rate-cut)recently. This could indicate a shift in investor sentiment or a response to changing market conditions.
+It's worth noting that while ETF outflows have been significant, there are signs of this trend [narrowing](https://asia.nikkei.com/cms/Business/Markets/Commodities/Gold-ETF-inflows-reach-2-year-high-driven-by-expected-U.S.-rate-cut) recently. This could indicate a shift in investor sentiment or a response to changing market conditions.
 
 The gold market has also seen increased [speculative activity and volatility](https://www.elibrary.imf.org/view/journals/022/0017/004/article-A011-en.xml), with new market participants entering and potentially influencing price movements. This includes large purchases from the Middle East and small investors in the US, adding another layer of complexity to the market dynamics.
 
