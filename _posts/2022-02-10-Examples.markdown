@@ -48,10 +48,10 @@ I want to show some charts before discussing my gold views at the end. click pic
 ### Short term outlook 
 {:data-align="center"}
 
-this chart shows a possible trendline. 
+>this chart shows a possible trendline. 
 ![Dubious at best](:short.png)
 
-this next picture is the possible trendlines with a parrellel chanle on top.
+>this next picture is the possible trendlines with a parrellel chanle on top.
 ![Dubious at best but the median line or midline does look interesting.](:combo.png)
 
 ***
@@ -65,15 +65,15 @@ this next picture is the possible trendlines with a parrellel chanle on top.
 
 #### 1976-1980
 
-A 757% gain over 1521 days
+>A 757% gain over 1521 days
 ![A look at gold in 1976](:76.png)
 
 ### 1999-2011
-A 667% gain over a 4444 days 
+>A 667% gain over a 4444 days 
 ![A pull back from a little over 1000$ down to 700$ in the 08-09 GFC](:99.png)
 
 #### 2015-2038
-of course the farther ahead of time you try and look out the harder it is and the more speculative it gets. But here are two future possibilitys if we had another bull gold cycle assuming a longer time from (double last cycle) two diffrent charts here showing, first one showing a 500% gain and where that would put gold and a 550% gain as a higher target at which also puts it at around the even number of 8000$.
+>of course the farther ahead of time you try and look out the harder it is and the more speculative it gets. But here are two future possibilitys if we had another bull gold cycle assuming a longer time from (double last cycle) two diffrent charts here showing, first one showing a 500% gain and where that would put gold and a 550% gain as a higher target at which also puts it at around the even number of 8000$.
 ![a low end of what could be possible](:500.png)
 ![im sure gold bugs would love this](:550.png)
 
