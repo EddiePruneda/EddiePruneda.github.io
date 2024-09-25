@@ -1,0 +1,127 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_Examples
+title: Gold signal to Bitcoin 
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: Eddie Pruneda
+# multiple category is not supported
+category: jekyll
+# multiple tag entries are possible
+tags: [jekyll, sample, example post]
+# thumbnail image for post
+img: ":goldbtc2.png"
+# disable comments on this page
+#comments_disable: true
+
+# publish date
+date: 2022-09-23 08:11:06 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-09-23 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+#image_viewer_on: true
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we're drawing parallels between gold and Bitcoin price movements in 2019 and 2024, particularly in relation to interest rate cuts and its break outs
+
+<!-- outline-end -->
+
+### : Gold marking a top?
+{:data-align="center"}
+
+>Here is a the base chart to help understand the rest of the charts we will be look at. showing the bottom base and high base gold showed over the past 10 years. 
+
+![bottom base from 2013-2019 and the top base from 2020- today ](:past.png){:data-align="center"}
+
+***
+***
+***
+
+### : Gold 2019 
+{:data-align="center"}
+
+>This next picture is gold in 2019 overlayed with interst rates in pink. Gold rising before rate cuts. 
+
+
+![monthly chart showing gold going up before rate cuts in pink chart](:gold2019.png){:data-align="center"}
+
+***
+***
+***
+
+### : Gold 2024
+{:data-align="center"}
+
+>Gold in 2024 also going up right before rate cuts in 2024. 
+
+![shows gold high base along with intrest rates in pink](:Gold2024.png){:data-align="center"}
+
+***
+***
+***
+
+### : Gold 2019 + 2024
+{:data-align="center"}
+
+>Here is a higher view of those past 10 years of gold along with intrest rates in pink. rate cuts also illistrated
+
+![higher level view of whats been mentioned ](:gold1924.png){:data-align="center"}
+
+***
+***
+***
+
+### : Gold 2019 + Bitcoin 2019
+{:data-align="center"}
+
+>Here is a illustrated picture showing the chart of gold in 2019 with a chart of bitcoin in pink back in 2019.
+>>- Gold showed an upward trend leading into rate cuts in 2019.
+>- Bitcoin (shown in pink) reached a top as gold broke out of its base.
+>- After rate cuts, Bitcoin's price declined while gold continued to rise.
+
+![Picture speaks for itself](:goldbtc.png){:data-align="center"}
+
+***
+***
+***
+
+### : Gold 2024 + Bitcoin 2024
+{:data-align="center"}
+
+>Now these last two picture are gold and bitcoin (in pink) in 2024 doing what i belive is the same thing it did back in 2019. Now ask a dangures >question of "is this time difrrent?"
+>- Gold is again showing an upward trend before anticipated rate cuts.
+>- Bitcoin's price movement (in pink) appears to be following a similar pattern to 2019.
+
+
+![Picture speaks for itself](:goldbtc2.png){:data-align="center"}
+
+![Picture speaks for itself](:goldbtc3.png){:data-align="center"}
+
+***
+***
+***
+
+```python
+While historical patterns can be informative, it's crucial to remember that market conditions and dynamics can change. The question "Is this time different?" is indeed pertinent, as past performance doesn't guarantee future results. Various factors, including regulatory changes, technological advancements, and global economic conditions, could influence these assets differently in 2024 compared to 2019.
+
+Investors should consider these patterns as part of a broader analysis and not rely solely on historical comparisons when making investment decisions.
+```
