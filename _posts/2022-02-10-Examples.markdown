@@ -39,153 +39,69 @@ date: 2022-02-10 08:11:06 +0900
 #published: false
 ---
 
-<!-- outline-start -->
 
-This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optimizing Financial Growth: A Forward-Looking Approach</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Optimizing Financial Growth: A Forward-Looking Approach</h1>
 
-<!-- outline-end -->
+    <h2>Shifting Focus for Better Returns</h2>
+    <p>Instead of dwelling on past financial mistakes, redirect your energy towards developing financial literacy and identifying high-growth opportunities. This shift can potentially leverage the power of compound interest, creating substantial differences in long-term outcomes.</p>
 
-### Headings (centered)
-{:data-align="center"}
+    <h2>Understanding Opportunity Cost</h2>
+    <p>Time is a precious resource in finance. Excessive focus on past errors or underperforming investments allocates this valuable asset to low-yield activities. By recognizing the opportunity cost, you can make more informed decisions about where to invest your time and resources.</p>
 
-# Heading 1
+    <h2>Balancing Growth and Risk</h2>
+    <p>While pursuing high-growth opportunities, maintain a balanced approach:</p>
+    <ul>
+        <li>Diversify to mitigate risk</li>
+        <li>Conduct thorough due diligence</li>
+        <li>Align investments with personal risk tolerance</li>
+    </ul>
 
-## Heading 2
+    <h2>Cultivating a Growth Mindset</h2>
+    <p>Adopt a forward-looking perspective by:</p>
+    <ul>
+        <li>Learning from mistakes without fixating on them</li>
+        <li>Actively seeking new growth opportunities</li>
+        <li>Being open to calculated risks</li>
+    </ul>
 
-### Heading 3
+    <h2>Managing Emotional Factors</h2>
+    <p>Recognize the role of emotions in investment decisions:</p>
+    <ul>
+        <li>Understand the fear and greed cycle</li>
+        <li>Be aware of regret aversion and herding behavior</li>
+        <li>Develop emotional regulation techniques</li>
+        <li>Implement systematic decision-making processes</li>
+    </ul>
 
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-***
-
-### Paragraphs
-
-#### Paragraph
-
-**William Shakespeare**, Let me not to the marriage of true minds
-Admit impediments. Love is not love
-Which alters when it alteration finds,
-Or bends with the remover to remove.
-O no, it is an ever-fixed mark
-That looks on tempests and is never shaken;
-It is the star to every wand'ring barque,
-Whose worth's unknown, although his height be taken.
-Love's not Time's fool, though rosy lips and cheeks
-Within his bending sickle's compass come;
-Love alters not with his brief hours and weeks,
-But bears it out even to the edge of doom.
-If this be error and upon me proved,
-I never writ, nor no man ever loved.
-
-#### Texts
-
-Quoted text `Hello world`
-
-Bold text **Hello world**
-
-Italic text _Hello world_
-
-kbd text <kbd>Hello world</kbd>
-
-#### Blockquote
-
-> **William Shakespeare**, Let me not to the marriage of true minds
-> Admit impediments. Love is not love
-> Which alters when it alteration finds,
-> Or bends with the remover to remove.
-> O no, it is an ever-fixed mark
-> That looks on tempests and is never shaken;
-> It is the star to every wand'ring barque,
-> Whose worth's unknown, although his height be taken.
-> Love's not Time's fool, though rosy lips and cheeks
-> Within his bending sickle's compass come;
-> Love alters not with his brief hours and weeks,
-> But bears it out even to the edge of doom.
-> If this be error and upon me proved,
-> I never writ, nor no man ever loved.
-
-### Link
-
-This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
-
-\* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
-
-### Picture
-
-![such a lovely place](:post_pic1.jpg)
-
-### Picture (centered)
-
-![such a lovely place](:post_pic1.jpg){:data-align="center"}
-
-### Lists
-
-- Apple
-- Banana
-- Orange
-
-1. Fruits
-   1. Apples
-      - Granny Smith
-      - Mutsu
-   1. Bananas
-      - Cavendish
-      - Red
-1. Vegetables
-
-***
-
-### Tables
-
-#### Small Table (centered)
-
-| Fruits(not aligned) | Alignment (centered) | num (right align) |
-| ------------------- | :------------------: | ----------------: |
-| Apple               |       centered       |              9999 |
-| Banana              |  centered long text  |               999 |
-| Orange              |       centered       |                99 |
-| Lemon               |       centered       |                 9 |
-{:data-align="center"}
-
-#### Wide Table (centered)
-
-scroll enabled when page is narrow
-
-| Fruits | num (left align) | num (right align) | num  | num  | num  |
-| ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-| Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-| Banana | 111              |               111 | 222  | 333  | 444  |
-| Orange | 11               |                11 | 22   | 33   | 44   |
-| Lemon  | 1                |                 1 | 2    | 3    | 4    |
-{:data-align="center"}
-
-#### Wider Table
-
-scroll enabled when page is narrow
-
-| Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-| ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-| Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-| Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-| Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-| Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-### Code
-
-#### Highlight
-
-{% highlight python %}
-for i in range(5, 10):
-  print(i)
-{% endhighlight %}
-
-#### Quote
-
-```python
-for i in range(5, 10):
-  print(i)
-```
+    <p>By embracing this approach, you can position yourself for greater financial success while fostering a more positive and proactive investment strategy.</p>
+</body>
+</html>
