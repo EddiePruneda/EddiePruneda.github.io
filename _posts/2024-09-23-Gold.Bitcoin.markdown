@@ -45,10 +45,10 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 
 <!-- outline-end -->
 
-### : Gold marking a top?
+###  Gold marking a top?
 {:data-align="center"}
 
->Here is a the base chart to help understand the rest of the charts we will be look at. showing the bottom base and high base gold showed over the past 10 years. 
+>Here is the base chart to help understand the rest of the charts we will be look at. showing the bottom base and high base gold showed over the past 10 years. 
 
 ![bottom base from 2013-2019 and the top base from 2020- today ](:past.png){:data-align="center"}
 
@@ -56,7 +56,7 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 ***
 ***
 
-### : Gold 2019 
+###  Gold 2019 
 {:data-align="center"}
 
 >This next picture is gold in 2019 overlayed with interst rates in pink. Gold rising before rate cuts. 
@@ -68,7 +68,7 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 ***
 ***
 
-### : Gold 2024
+###  Gold 2024
 {:data-align="center"}
 
 >Gold in 2024 also going up right before rate cuts in 2024. 
@@ -79,10 +79,10 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 ***
 ***
 
-### : Gold 2019 + 2024
+###  Gold 2019 + 2024
 {:data-align="center"}
 
->Here is a higher view of those past 10 years of gold along with intrest rates in pink. rate cuts also illistrated
+>Here is a higher view of those past 10 years of gold along with intrest rates in pink. rate cuts also illustrated
 
 ![higher level view of whats been mentioned ](:gold1924.png){:data-align="center"}
 
@@ -90,7 +90,7 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 ***
 ***
 
-### : Gold 2019 + Bitcoin 2019
+###  Gold 2019 + Bitcoin 2019
 {:data-align="center"}
 
 >Here is a illustrated picture showing the chart of gold in 2019 with a chart of bitcoin in pink back in 2019.
@@ -104,10 +104,10 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 ***
 ***
 
-### : Gold 2024 + Bitcoin 2024
+###  Gold 2024 + Bitcoin 2024
 {:data-align="center"}
 
->Now these last two picture are gold and bitcoin (in pink) in 2024 doing what i belive is the same thing it did back in 2019. Now ask a dangures >question of "is this time difrrent?"
+>Now these last two picture are gold and bitcoin (in pink) in 2024 doing what i belive is the same thing it did back in 2019. Now ask the dangures question of "is this time difrrent?"
 >- Gold is again showing an upward trend before anticipated rate cuts.
 >- Bitcoin's price movement (in pink) appears to be following a similar pattern to 2019.
 
@@ -121,7 +121,9 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 ***
 
 ```python
-While historical patterns can be informative, it's crucial to remember that market conditions and dynamics can change. The question "Is this time different?" is indeed pertinent, as past performance doesn't guarantee future results. Various factors, including regulatory changes, technological advancements, and global economic conditions, could influence these assets differently in 2024 compared to 2019.
+While historical patterns can be informative, it's crucial to remember that market conditions and dynamics can change.
+The question "Is this time different?" is indeed pertinent, as past performance doesn't guarantee future results.
+Various factors, including regulatory changes, technological advancements, and global economic conditions, could influence these assets differently in 2024 compared to 2019.
 
 Investors should consider these patterns as part of a broader analysis and not rely solely on historical comparisons when making investment decisions.
 ```
