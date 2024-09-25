@@ -72,10 +72,10 @@ Investing in personal financial education and skill development is crucial. By e
 
 # Balancing Risk and Reward
 While pursuing high-growth opportunities is appealing, maintaining a balanced approach is essential:
-	1	Diversify to mitigate risk
-	2	Conduct thorough due diligence when evaluating investments
-	3	Align investment decisions with personal risk tolerance
-	4	Embrace calculated risks within your comfort zone
+	-1	Diversify to mitigate risk
+	-2	Conduct thorough due diligence when evaluating investments
+	-3	Align investment decisions with personal risk tolerance
+	-4	Embrace calculated risks within your comfort zone
 
 # Emotional Intelligence in Investing
 Managing emotions effectively is as crucial as understanding numbers in investing. Recognize emotional triggers that can lead to poor decision-making, such as fear of loss or overconfidence. Developing emotional intelligence can help maintain a rational approach to investing and avoid common pitfalls like panic selling or FOMO (fear of missing out).
