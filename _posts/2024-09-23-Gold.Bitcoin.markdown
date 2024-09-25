@@ -121,11 +121,13 @@ Gold breakout marking Bitcoin top. Based on the charts and analysis provided, we
 ***
 
 ```python
-While historical patterns can be informative, it's crucial to remember that market conditions and dynamics can change.
+While historical patterns can be informative, it's crucial to remember that market
+conditions and dynamics can change.
+The question "Is this time different?" is indeed pertinent, as past
+performance doesn't guarantee future results.
+Various factors, including regulatory changes, technological advancements, and global economic
+conditions, could influence these assets differently in 2024 compared to 2019.
 
-The question "Is this time different?" is indeed pertinent, as past performance doesn't guarantee future results.
-
-Various factors, including regulatory changes, technological advancements, and global economic conditions, could influence these assets differently in 2024 compared to 2019.
-
-Investors should consider these patterns as part of a broader analysis and not rely solely on historical comparisons when making investment decisions.
+Investors should consider these patterns as part of a broader analysis and not rely solely on
+historical comparisons when making investment decisions.
 ```
