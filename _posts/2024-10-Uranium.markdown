@@ -11,7 +11,7 @@ category: jekyll
 # multiple tag entries are possible
 tags: [jekyll, sample, example post]
 # thumbnail image for post
-img: ":post_pic1.jpg"
+img: ":ur.png"
 # disable comments on this page
 #comments_disable: true
 
@@ -52,6 +52,9 @@ In today's market, tech companies are at the forefront, not just for their innov
 
 While solar and wind offer potential solutions, their intermittent nature requires a stable backbone—this is where nuclear energy, and by extension uranium, comes in. Nuclear energy provides unmatched reliability and capacity to generate carbon-free power, making it an ideal complement to renewable sources. The significance of uranium, a metal that has powered reactors for decades, is set to increase as we move toward a future with skyrocketing energy needs. The recent resurgence in the uranium market reflects the growing recognition of its value.
 
+![some history of uranium](:ur1.png){:data-align="center"}
+
+![Does not include bitcoin but still extremly insightful.](:ur3.png){:data-align="center"}
 
 # Big Tech's Nuclear Ambitions
 Several major tech companies are making significant moves into nuclear energy:
