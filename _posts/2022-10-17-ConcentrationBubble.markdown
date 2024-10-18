@@ -61,6 +61,8 @@ Factors contributing to the preference for passive funds include:
 
 <kbd>3. Simplicity:</kbd> Passive investing requires minimal effort from investors.
 
+![such a lovely place](:bub1.png){:data-align="center"}
+
 ***
 ***
 
@@ -68,24 +70,24 @@ Factors contributing to the preference for passive funds include:
 
 The "Magnificent Seven" stocks - Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia, and Tesla - have become a dominant force in the U.S. equity market. As of 2023, these [seven companies accounted for over 25% of the S&P 500's](https://www.investopedia.com/magnificent-seven-stocks-8402262) total market capitalization.
 
+![](:bub2.png){:data-align="center"}
+
+![](:bub.png){:data-align="center"}
+
 ## Evidence of a Concentration Bubble
 
 <kbd>1. Market Cap Concentration:</kbd> The top 10 stocks in the S&P 500 now account for more than [30% of the index's total weight](https://journal.epistemikpress.id/index.php/IJSSR/article/download/51/46).
+
 <kbd>2. Passive Fund Holdings:</kbd> Due to their market-cap weighting, these stocks make up a significant portion of [passive fund holdings](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
+
 <kbd>3. Performance Disparity:</kbd> The outperformance of large-cap stocks, particularly the Magnificent Seven, has led to a situation where holding top contributors has become more important than avoiding the [biggest detractors](https://journal.epistemikpress.id/index.php/IJSSR/article/download/51/46).
+
+![](:bub3.png){:data-align="center"}
 
 ***
 ***
 
 # Risks and Implications
 
-This concentration creates potential risks for investors, particularly those in passive funds. A decline in any of the top companies could disproportionately affect the portfolios of millions of passive investors[1]. It may be time for investors to reassess their portfolios and consider whether they are truly diversified or simply exposed to the next potential bubble.
+>This concentration creates potential risks for investors, particularly those in passive funds. A decline in any of the top companies could disproportionately affect the portfolios of millions of passive investors. It may be time for investors to reassess their portfolios and consider whether they are truly diversified or simply exposed to the next potential bubble. It's important to note that these market cycles and economic patterns often unfold over extended periods, sometimes spanning years or even decades. While short-term fluctuations may occur, the full cycle from peak to trough and back to peak can be a lengthy process. Investors and analysts should maintain a long-term perspective when considering these cycles, as the timing and duration can vary significantly based on numerous factors.
 
-
-
-
-
-
-### Picture (centered)
-
-![such a lovely place](:post_pic1.jpg){:data-align="center"}
