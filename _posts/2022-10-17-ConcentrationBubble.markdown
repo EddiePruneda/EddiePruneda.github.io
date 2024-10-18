@@ -51,10 +51,14 @@ date: 2022-02-10 08:11:06 +0900
 
 Passive investing has gained tremendous popularity over the past decade, [with total assets in U.S. passive mutual funds and ETFs surpassing those in active ones for the first time in 2024]([https://jekyllrb.com/](https://www.axios.com/2024/06/27/the-stock-markets-concentration-in-one-chart)). This shift is particularly evident in 401(k) plans, where many investors opt for low-cost index funds that track market benchmarks.
 
+![](:bub4.png){:data-align="center"}
+
 Factors contributing to the preference for passive funds include:
 
 <kbd>1. Performance:</kbd> [Only 29% of actively managed funds have outperformed their indexed peers over the past decade](https://www.morganstanley.com/im/publication/insights/articles/article_stockmarketconcentration.pdf).
+
 <kbd>2. Lower Costs:</kbd> [Some passive funds charge less than $10 per year for every $10,000 invested](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
+
 <kbd>3. Simplicity:</kbd> Passive investing requires minimal effort from investors.
 
 ***
