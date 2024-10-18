@@ -1,15 +1,15 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: Examples
+title: The Concentration Bubble: Passive Investing and the Magnificent Seven
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Mr. Green's Workshop
+author: eddie
 # multiple category is not supported
 category: jekyll
 # multiple tag entries are possible
-tags: [jekyll, sample, example post]
+tags: 
 # thumbnail image for post
 img: ":post_pic1.jpg"
 # disable comments on this page
@@ -39,30 +39,25 @@ date: 2022-02-10 08:11:06 +0900
 #published: false
 ---
 
-<!-- outline-start -->
 
-This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
 
-<!-- outline-end -->
 
-### Headings (centered)
+# From Diversified to Concentrated: How Passive Investing is Creating a Stock Market Bubble
 {:data-align="center"}
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+In recent years, the U.S. stock market has experienced a significant concentration of wealth in a handful of companies, raising concerns about a potential bubble. This article examines the role of passive investing, particularly through 401(k) plans, and the phenomenon of the "Magnificent Seven" stocks in contributing to this concentration.
 
 ***
 
-### Paragraphs
+# The Rise of Passive Investing
+
+Passive investing has gained tremendous popularity over the past decade, [with total assets in U.S. passive mutual funds and ETFs surpassing those in active ones for the first time in 2024]([https://jekyllrb.com/](https://www.axios.com/2024/06/27/the-stock-markets-concentration-in-one-chart)). This shift is particularly evident in 401(k) plans, where many investors opt for low-cost index funds that track market benchmarks.
+
+Factors contributing to the preference for passive funds include:
+
+1. [Performance: Only 29% of actively managed funds have outperformed their indexed peers over the past decade](https://www.morganstanley.com/im/publication/insights/articles/article_stockmarketconcentration.pdf).
+2. [Lower Costs: Some passive funds charge less than $10 per year for every $10,000 invested](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
+3. [Simplicity: Passive investing requires minimal effort from investors](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
 
 #### Paragraph
 
