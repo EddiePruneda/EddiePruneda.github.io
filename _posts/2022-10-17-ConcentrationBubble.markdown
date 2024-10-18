@@ -45,8 +45,6 @@ date: 2022-02-10 08:11:06 +0900
 # From Diversified to Concentrated: How Passive Investing is Creating a Stock Market Bubble
 {:data-align="center"}
 
-In recent years, the U.S. stock market has experienced a significant concentration of wealth in a handful of companies, raising concerns about a potential bubble. This article examines the role of passive investing, particularly through 401(k) plans, and the phenomenon of the "Magnificent Seven" stocks in contributing to this concentration.
-
 ***
 
 # The Rise of Passive Investing
@@ -55,132 +53,35 @@ Passive investing has gained tremendous popularity over the past decade, [with t
 
 Factors contributing to the preference for passive funds include:
 
-1. [Performance: Only 29% of actively managed funds have outperformed their indexed peers over the past decade](https://www.morganstanley.com/im/publication/insights/articles/article_stockmarketconcentration.pdf).
-2. [Lower Costs: Some passive funds charge less than $10 per year for every $10,000 invested](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
-3. [Simplicity: Passive investing requires minimal effort from investors](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
+<kbd>1. Performance:</kbd> [Only 29% of actively managed funds have outperformed their indexed peers over the past decade](https://www.morganstanley.com/im/publication/insights/articles/article_stockmarketconcentration.pdf).
+<kbd>2. Lower Costs:</kbd> [Some passive funds charge less than $10 per year for every $10,000 invested](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
+<kbd>3. Simplicity:</kbd> Passive investing requires minimal effort from investors.
 
-#### Paragraph
+***
+***
 
-**William Shakespeare**, Let me not to the marriage of true minds
-Admit impediments. Love is not love
-Which alters when it alteration finds,
-Or bends with the remover to remove.
-O no, it is an ever-fixed mark
-That looks on tempests and is never shaken;
-It is the star to every wand'ring barque,
-Whose worth's unknown, although his height be taken.
-Love's not Time's fool, though rosy lips and cheeks
-Within his bending sickle's compass come;
-Love alters not with his brief hours and weeks,
-But bears it out even to the edge of doom.
-If this be error and upon me proved,
-I never writ, nor no man ever loved.
+# The Magnificent Seven Phenomenon
 
-#### Texts
+The "Magnificent Seven" stocks - Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia, and Tesla - have become a dominant force in the U.S. equity market. As of 2023, these [seven companies accounted for over 25% of the S&P 500's](https://www.investopedia.com/magnificent-seven-stocks-8402262) total market capitalization.
 
-Quoted text `Hello world`
+## Evidence of a Concentration Bubble
 
-Bold text **Hello world**
+<kbd>1. Market Cap Concentration:</kbd> The top 10 stocks in the S&P 500 now account for more than [30% of the index's total weight](https://journal.epistemikpress.id/index.php/IJSSR/article/download/51/46).
+<kbd>2. Passive Fund Holdings:</kbd> Due to their market-cap weighting, these stocks make up a significant portion of [passive fund holdings](https://www.fidelity.com/learning-center/trading-investing/market-concentration).
+<kbd>3. Performance Disparity:</kbd> The outperformance of large-cap stocks, particularly the Magnificent Seven, has led to a situation where holding top contributors has become more important than avoiding the [biggest detractors](https://journal.epistemikpress.id/index.php/IJSSR/article/download/51/46).
 
-Italic text _Hello world_
+***
+***
 
-kbd text <kbd>Hello world</kbd>
+# Risks and Implications
 
-#### Blockquote
+This concentration creates potential risks for investors, particularly those in passive funds. A decline in any of the top companies could disproportionately affect the portfolios of millions of passive investors[1]. It may be time for investors to reassess their portfolios and consider whether they are truly diversified or simply exposed to the next potential bubble.
 
-> **William Shakespeare**, Let me not to the marriage of true minds
-> Admit impediments. Love is not love
-> Which alters when it alteration finds,
-> Or bends with the remover to remove.
-> O no, it is an ever-fixed mark
-> That looks on tempests and is never shaken;
-> It is the star to every wand'ring barque,
-> Whose worth's unknown, although his height be taken.
-> Love's not Time's fool, though rosy lips and cheeks
-> Within his bending sickle's compass come;
-> Love alters not with his brief hours and weeks,
-> But bears it out even to the edge of doom.
-> If this be error and upon me proved,
-> I never writ, nor no man ever loved.
 
-### Link
 
-This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
 
-\* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
 
-### Picture
-
-![such a lovely place](:post_pic1.jpg)
 
 ### Picture (centered)
 
 ![such a lovely place](:post_pic1.jpg){:data-align="center"}
-
-### Lists
-
-- Apple
-- Banana
-- Orange
-
-1. Fruits
-   1. Apples
-      - Granny Smith
-      - Mutsu
-   1. Bananas
-      - Cavendish
-      - Red
-1. Vegetables
-
-***
-
-### Tables
-
-#### Small Table (centered)
-
-| Fruits(not aligned) | Alignment (centered) | num (right align) |
-| ------------------- | :------------------: | ----------------: |
-| Apple               |       centered       |              9999 |
-| Banana              |  centered long text  |               999 |
-| Orange              |       centered       |                99 |
-| Lemon               |       centered       |                 9 |
-{:data-align="center"}
-
-#### Wide Table (centered)
-
-scroll enabled when page is narrow
-
-| Fruits | num (left align) | num (right align) | num  | num  | num  |
-| ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-| Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-| Banana | 111              |               111 | 222  | 333  | 444  |
-| Orange | 11               |                11 | 22   | 33   | 44   |
-| Lemon  | 1                |                 1 | 2    | 3    | 4    |
-{:data-align="center"}
-
-#### Wider Table
-
-scroll enabled when page is narrow
-
-| Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-| ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-| Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-| Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-| Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-| Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-### Code
-
-#### Highlight
-
-{% highlight python %}
-for i in range(5, 10):
-  print(i)
-{% endhighlight %}
-
-#### Quote
-
-```python
-for i in range(5, 10):
-  print(i)
-```
