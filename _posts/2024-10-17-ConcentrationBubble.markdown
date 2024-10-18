@@ -11,16 +11,16 @@ category: jekyll
 # multiple tag entries are possible
 tags: 
 # thumbnail image for post
-img: ":post_pic1.jpg"
+img: ":bub.png"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2022-02-10 08:11:06 +0900
+date: 2024-10-17 08:11:06 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-02-10 08:11:06 +0900
+#meta_modify_date: 2024-10-17 08:11:06 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
