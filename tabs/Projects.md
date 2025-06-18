@@ -1,7 +1,7 @@
 ---
 layout: alpha
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_alpha
+lng_pair: id_Projects
 
 # publish date (used for seo)
 # if not specified, site.time will be used.
